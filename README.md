@@ -7,6 +7,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yjooooo&theme=tokyonight&repo=27th-SOPT)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yjooooo&theme=tokyonight&repo=BeMeAndroid)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamBeMe&theme=tokyonight&repo=BeMeAndroid)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
