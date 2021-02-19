@@ -1,7 +1,7 @@
 ---
 <h1 align="center">🐳Hi, I'm Yjooooo🐳</h1>
 
-#### - Name : YunJoo Son
+#### - Name : Yunjoo Son
 #### - Age : Secret🤫
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjooooo&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
