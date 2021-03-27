@@ -10,6 +10,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yjooooo&theme=radical&repo=27th-SOPT)](https://github.com/yjooooo/27th-SOPT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamBeMe&theme=radical&repo=BeMeAndroid)](https://github.com/TeamBeMe/BeMeAndroid)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamBeMe&theme=radical&repo=BeMeAndroid)](https://github.com/And-Potter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamBeMe&theme=radical&repo=Slytherin_yjooooo)](https://github.com/And-Potter)
 
 ---
