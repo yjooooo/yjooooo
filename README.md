@@ -9,7 +9,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjooooo&count_private=true&theme=radical&show_icons=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamBeMe&theme=radical&repo=BeMeAndroid)](https://github.com/TeamBeMe/BeMeAndroid)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamKeepin&theme=radical&repo=keepin-android)](https://github.com/TeamKeepin/keepin-android)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yjooooo&theme=radical&repo=27th-SOPT)](https://github.com/yjooooo/27th-SOPT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=And-Potter&theme=radical&repo=Slytherin_yjooooo)](https://github.com/And-Potter/Slytherin_yjooooo)
 
