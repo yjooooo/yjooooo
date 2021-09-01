@@ -4,6 +4,10 @@
 #### - Name : Yunjoo Son
 #### - Age : Secret🤫
 
+- Sopt 27기
+- Sopt 28기
+- 부스트캠프 웹·모바일 6기 Android
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjooooo&theme=radical&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjooooo&count_private=true&theme=radical&show_icons=true)
