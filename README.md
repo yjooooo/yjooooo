@@ -12,7 +12,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjooooo&count_private=true&theme=radical&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamBeMe&theme=radical&repo=BeMeAndroid)](https://github.com/TeamBeMe/BeMeAndroid)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=And-Potter&theme=radical&repo=Slytherin_yjooooo)](https://github.com/And-Potter/Slytherin_yjooooo)
-
 ---
