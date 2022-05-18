@@ -2,7 +2,6 @@
 <h1 align="center">🐳Hi, I'm Yjooooo🐳</h1>
 
 #### - Name : Yunjoo Son
-#### - Age : Secret🤫
 
 - SOPT 27기 Android
 - SOPT 28기 Android
