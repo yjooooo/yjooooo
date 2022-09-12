@@ -1,5 +1,5 @@
 ---
-<h1 align="center">🐳Hi, I'm Yjooooo🐳</h1>
+<h1 align="center">🐳Hi, I'm Yunjoo🐳</h1>
 
 #### - Name : Yunjoo Son
 
